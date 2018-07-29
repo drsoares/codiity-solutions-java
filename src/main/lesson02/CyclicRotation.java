@@ -41,7 +41,7 @@ import java.util.Arrays;
  * <p>
  * In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
  */
-public class CyclicRotation {
+class CyclicRotation {
     //run with -ea
     public static void main(String[] args) {
         CyclicRotation solution = new CyclicRotation();
