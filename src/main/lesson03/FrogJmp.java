@@ -34,7 +34,7 @@ import java.math.BigDecimal;
  * expected worst-case time complexity is O(1);
  * expected worst-case space complexity is O(1).
  */
-public class FrogJmp {
+class FrogJmp {
     //run with -ea
     public static void main(String[] args) {
         FrogJmp frogJmp = new FrogJmp();
