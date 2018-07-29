@@ -41,6 +41,7 @@ package lesson02;
 
  */
 class OddOccurrencesInArray {
+    //run with -ea
     public static void main(String[] args) {
         OddOccurrencesInArray oddOccurrencesInArray = new OddOccurrencesInArray();
         assert (oddOccurrencesInArray.solution(new int[]{1,2,4,2,1}) == 4);
