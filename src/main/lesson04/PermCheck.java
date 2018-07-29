@@ -55,6 +55,7 @@ package lesson04;
 
  */
 class PermCheck {
+    //run with -ea
     public static void main(String[] args) {
         PermCheck permCheck = new PermCheck();
         assert (permCheck.solution(new int[]{4,1,3,2}) == 1);
