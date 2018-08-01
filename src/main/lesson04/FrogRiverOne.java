@@ -60,7 +60,7 @@ class FrogRiverOne {
     public static void main(String[] args) {
         FrogRiverOne frogRiverOne = new FrogRiverOne();
         assert (frogRiverOne.solution(5, new int[]{1, 3, 1, 4, 2, 3, 5, 4}) == 6);
-        assert (frogRiverOne.solution(3, new int[] {1, 3, 1, 3, 2, 1, 3}) == 5);
+        assert (frogRiverOne.solution(3, new int[]{1, 3, 1, 3, 2, 1, 3}) == 5);
         System.out.println("Your solution works perfectly fine");
     }
 
