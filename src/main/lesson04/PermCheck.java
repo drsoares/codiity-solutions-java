@@ -89,7 +89,7 @@ class PermCheck {
      *         return 1;
      *     }
      *
-     * It get's 80% yet i didn't figure out whats the issue with this one
+     * It gets 80% yet i didn't figure out whats the issue with this one
      *
      * private int solution(int[] A) {
      *  Set<Integer> set = new HashSet<>();
