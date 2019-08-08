@@ -38,7 +38,7 @@ class MissingInteger {
     }
 
     private int solution(int[] A) {
-        Set<Integer> set = new HashSet<>();
+        Set<Integer> set = new HashSet<>(A.length);
         for (int a : A) {
             set.add(a);
         }
